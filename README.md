@@ -1,4 +1,4 @@
-# faissal-sourour
+
 # Faïçal Sourour
 
 **Goalkeeper Coach & Former Professional Goalkeeper**
@@ -28,7 +28,7 @@ You can add photos and media files in your repository’s `media/` folder (creat
 
 ## Contact
 
-- **Email:** your-email@example.com  
+- **Email:** faissal.sourour@gmail.com 
 - **Instagram:** [@fsourour](https://instagram.com/fsourour)  
 - **Location:** South Korea
 
