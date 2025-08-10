@@ -16,7 +16,7 @@
 
 ## About
 
-Faïçal Sourour is a Moroccan-born goalkeeper coach and former professional player with experience in Morocco, France, England, and Austria. He is currently based in South Korea and coaches U18 athletes, focusing on technical skill development, tactical understanding, and mental resilience.
+Faïçal Sourour is a Moroccan-born goalkeeper coach and former professional footballer with over a decade of experience, having participated in 103 competitive matches across Morocco, France, England, and Austria. Currently residing in South Korea, he serves as the goalkeeper coach for a U18 high school team GVCS 
 
 ---
 
